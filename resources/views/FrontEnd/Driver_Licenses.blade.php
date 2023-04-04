@@ -42,29 +42,29 @@
         <div class="row">
             <div class="col-md-6 col-lg-4 my-3">
                 <div class="card card_reltaed driver_card" >
-                    <a href="Driver_Licences_RoadSigns.html"><img class="card-img-top cardreltedimg" src="./img/deriver_licence_1.png" alt="Card image cap"></a>
+                    <a href="/driver_licences"><img class="card-img-top cardreltedimg" src="./img/deriver_licence_1.png" alt="Card image cap"></a>
                     <div class="card-body card_body_deriver">
                       <h5 class="card-title card_related_titile">Road Signs</h5>
-                      <a href="Driver_Licences_RoadSigns.html" class="realetd_faq_link">Read More </a>
+                      <a href="/driver_licences" class="realetd_faq_link">Read More </a>
                     </div>
                   </div>
             </div>
             <div class="col-md-6 col-lg-4 my-3">
                 <div class="card card_reltaed driver_card" >
-                  <a href="derive_rule_road.html">  <img class="card-img-top cardreltedimg" src="./img/deriver_licence_2.png" alt="Card image cap"></a>
+                  <a href="/derive_rule">  <img class="card-img-top cardreltedimg" src="./img/deriver_licence_2.png" alt="Card image cap"></a>
                     <div class="card-body card_body_deriver">
                       <h5 class="card-title card_related_titile">Rules of the Road</h5>
-                      <a href="derive_rule_road.html" class="realetd_faq_link">Read More </a>
+                      <a href="/derive_rule" class="realetd_faq_link">Read More </a>
                     </div>
                   </div>
             </div>
 
             <div class="col-md-6 col-lg-4 my-3">
                 <div class="card card_reltaed driver_card" >
-                    <a href="Deriving_safe_practus.html"><img class="card-img-top cardreltedimg" src="./img/deriver_licence_3.png" alt="Card image cap"></a>
+                    <a href="/deriving_safe"><img class="card-img-top cardreltedimg" src="./img/deriver_licence_3.png" alt="Card image cap"></a>
                     <div class="card-body card_body_deriver">
                       <h5 class="card-title card_related_titile">Safe Driving Practices</h5>
-                      <a href="Deriving_safe_practus.html" class="realetd_faq_link">Read More </a>
+                      <a href="/deriving_safe" class="realetd_faq_link">Read More </a>
                     </div>
                   </div>
             </div>

@@ -100,7 +100,7 @@ Route::get('/vehicale_varrent_certificate', function () {
     return view('FrontEnd.vehicale_varrent_certificate');
 });
 Route::get('/vehicle_safety', function () {
-    return view('FrontEnd.Vehicle_Safety');
+    return view('FrontEnd.vehicle_safety');
 });
 Route::get('/vehicles_clean_car', function () {
     return view('FrontEnd.Vehicles_Clean_Car');
